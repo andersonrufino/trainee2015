@@ -12,9 +12,9 @@ import static org.junit.Assert.*;
  *
  * @author Judah
  */
-public class ConveterTest {
+public class ConverterTest {
 
-    public ConveterTest() {
+    public ConverterTest() {
     }
 
     @BeforeClass
@@ -255,5 +255,101 @@ public class ConveterTest {
         String algarismoRomano = "IL";
         int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
 //        assertEquals(49, resultado);
+    }
+    
+    @Test(expected = Exception.class)
+    public void insere_VIV_retorna_Exeption() throws Exception {
+        Converter converter = Converter.getInstance();
+        String algarismoRomano = "VIV";
+        int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
+//        assertEquals(49, resultado);
+    }
+    
+    @Test(expected = Exception.class)
+    public void insere_IVI_retorna_Exeption() throws Exception {
+        Converter converter = Converter.getInstance();
+        String algarismoRomano = "IVI";
+        int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
+//        assertEquals(49, resultado);
+    }
+    
+    @Test(expected = Exception.class)
+    public void insere_ILI_retorna_Exeption() throws Exception {
+        Converter converter = Converter.getInstance();
+        String algarismoRomano = "ILI";
+        int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
+//        assertEquals(49, resultado);
+    }
+    
+    @Test(expected = Exception.class)
+    public void insere_null_retorna_Exeption() throws Exception {
+        Converter converter = Converter.getInstance();
+        String algarismoRomano = null;
+        int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
+//        assertEquals(49, resultado);
+    }
+    
+    @Test(expected = Exception.class)
+    public void insere_vasio_retorna_Exeption() throws Exception {
+        Converter converter = Converter.getInstance();
+        String algarismoRomano = "";
+        int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
+//        assertEquals(49, resultado);
+    }
+    
+    @Test(expected = Exception.class)
+    public void insere_A_retorna_Exeption() throws Exception {
+        Converter converter = Converter.getInstance();
+        String algarismoRomano = "A";
+        int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
+//        assertEquals(49, resultado);
+    }
+    
+    @Test(expected = Exception.class)
+    public void insere_1_retorna_Exeption() throws Exception {
+        Converter converter = Converter.getInstance();
+        String algarismoRomano = "1";
+        int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
+//        assertEquals(49, resultado);
+    }
+    
+    @Test(expected = Exception.class)
+    public void insere_10_retorna_Exeption() throws Exception {
+        Converter converter = Converter.getInstance();
+        String algarismoRomano = "10";
+        int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
+//        assertEquals(49, resultado);
+    }
+    
+    @Test(expected = Exception.class)
+    public void insere_100_retorna_Exeption() throws Exception {
+        Converter converter = Converter.getInstance();
+        String algarismoRomano = "100";
+        int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
+//        assertEquals(49, resultado);
+    }
+    
+    @Test
+    public void insere_iv_retorna_4() throws Exception {
+        Converter converter = Converter.getInstance();
+        String algarismoRomano = "iv";
+        int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
+        assertEquals(4, resultado);
+    }
+    
+    @Test
+    public void insere_v_retorna_5() throws Exception {
+        Converter converter = Converter.getInstance();
+        String algarismoRomano = "v";
+        int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
+        assertEquals(5, resultado);
+    }
+    
+    @Test
+    public void insere_xxx_retorna_30() throws Exception {
+        Converter converter = Converter.getInstance();
+        String algarismoRomano = "xxx";
+        int resultado = converter.intArabicNumeralsForStringRomanNumerals(algarismoRomano);
+        assertEquals(30, resultado);
     }
 }
