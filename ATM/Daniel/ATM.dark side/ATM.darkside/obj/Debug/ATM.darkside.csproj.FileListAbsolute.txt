@@ -1,0 +1,5 @@
+c:\users\danda_000\documents\visual studio 2013\Projects\ATM.darkside\ATM.darkside\bin\Debug\ATM.darkside.dll
+c:\users\danda_000\documents\visual studio 2013\Projects\ATM.darkside\ATM.darkside\bin\Debug\ATM.darkside.pdb
+c:\users\danda_000\documents\visual studio 2013\Projects\ATM.darkside\ATM.darkside\obj\Debug\ATM.darkside.csprojResolveAssemblyReference.cache
+c:\users\danda_000\documents\visual studio 2013\Projects\ATM.darkside\ATM.darkside\obj\Debug\ATM.darkside.dll
+c:\users\danda_000\documents\visual studio 2013\Projects\ATM.darkside\ATM.darkside\obj\Debug\ATM.darkside.pdb

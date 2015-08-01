@@ -1,0 +1,7 @@
+c:\users\danda_000\documents\visual studio 2013\Projects\ATM.darkside\ATM.darkside.Teste\obj\Debug\ATM.darkside.Teste.csprojResolveAssemblyReference.cache
+c:\users\danda_000\documents\visual studio 2013\Projects\ATM.darkside\ATM.darkside.Teste\bin\Debug\ATM.darkside.Teste.dll
+c:\users\danda_000\documents\visual studio 2013\Projects\ATM.darkside\ATM.darkside.Teste\bin\Debug\ATM.darkside.Teste.pdb
+c:\users\danda_000\documents\visual studio 2013\Projects\ATM.darkside\ATM.darkside.Teste\bin\Debug\ATM.darkside.dll
+c:\users\danda_000\documents\visual studio 2013\Projects\ATM.darkside\ATM.darkside.Teste\bin\Debug\ATM.darkside.pdb
+c:\users\danda_000\documents\visual studio 2013\Projects\ATM.darkside\ATM.darkside.Teste\obj\Debug\ATM.darkside.Teste.dll
+c:\users\danda_000\documents\visual studio 2013\Projects\ATM.darkside\ATM.darkside.Teste\obj\Debug\ATM.darkside.Teste.pdb
