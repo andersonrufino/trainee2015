@@ -1,0 +1,5 @@
+C:\Users\Familia\Documents\GitHub\trainee2015\ATM\Michel\ATM\ATM.Models\bin\Debug\ATM.Models.dll
+C:\Users\Familia\Documents\GitHub\trainee2015\ATM\Michel\ATM\ATM.Models\bin\Debug\ATM.Models.pdb
+C:\Users\Familia\Documents\GitHub\trainee2015\ATM\Michel\ATM\ATM.Models\obj\Debug\ATM.Models.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Documents\GitHub\trainee2015\ATM\Michel\ATM\ATM.Models\obj\Debug\ATM.Models.dll
+C:\Users\Familia\Documents\GitHub\trainee2015\ATM\Michel\ATM\ATM.Models\obj\Debug\ATM.Models.pdb

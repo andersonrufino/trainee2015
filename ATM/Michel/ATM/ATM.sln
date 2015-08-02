@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM.Models", "ATM.Models\ATM.Models.csproj", "{725F8A13-A530-41EC-BD18-CD74CCA78C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM.Models.Tests", "ATM.Models.Tests\ATM.Models.Tests.csproj", "{A024062A-8A6D-4152-8175-A167F58D19DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725F8A13-A530-41EC-BD18-CD74CCA78C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725F8A13-A530-41EC-BD18-CD74CCA78C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725F8A13-A530-41EC-BD18-CD74CCA78C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725F8A13-A530-41EC-BD18-CD74CCA78C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A024062A-8A6D-4152-8175-A167F58D19DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A024062A-8A6D-4152-8175-A167F58D19DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A024062A-8A6D-4152-8175-A167F58D19DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A024062A-8A6D-4152-8175-A167F58D19DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

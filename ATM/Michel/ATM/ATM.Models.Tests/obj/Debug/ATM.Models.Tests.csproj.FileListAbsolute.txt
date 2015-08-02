@@ -1,0 +1,7 @@
+C:\Users\Familia\Documents\GitHub\trainee2015\ATM\Michel\ATM\ATM.Models.Tests\obj\Debug\ATM.Models.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Documents\GitHub\trainee2015\ATM\Michel\ATM\ATM.Models.Tests\bin\Debug\ATM.Models.Tests.dll
+C:\Users\Familia\Documents\GitHub\trainee2015\ATM\Michel\ATM\ATM.Models.Tests\bin\Debug\ATM.Models.Tests.pdb
+C:\Users\Familia\Documents\GitHub\trainee2015\ATM\Michel\ATM\ATM.Models.Tests\bin\Debug\ATM.Models.dll
+C:\Users\Familia\Documents\GitHub\trainee2015\ATM\Michel\ATM\ATM.Models.Tests\bin\Debug\ATM.Models.pdb
+C:\Users\Familia\Documents\GitHub\trainee2015\ATM\Michel\ATM\ATM.Models.Tests\obj\Debug\ATM.Models.Tests.dll
+C:\Users\Familia\Documents\GitHub\trainee2015\ATM\Michel\ATM\ATM.Models.Tests\obj\Debug\ATM.Models.Tests.pdb
